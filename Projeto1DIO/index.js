@@ -1,7 +1,7 @@
 console.log("Digite o nome do seu jogador:")
 
 // declarando a variaável nickname usando o comando *let*
-let nickname = "M1lloca"
+let nickname = "M1llyz"
 
 // concatenando uma mensagem fixa + uma variável (concatenar == unir)
 console.log("Bem vindo(a), " + nickname + "!")
